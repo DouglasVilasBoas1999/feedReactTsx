@@ -13,10 +13,10 @@ utilizando **ReactJS**, **TypeScript** e boas práticas de frontend.
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-🔹 ⚛️ **ReactJS**
-🔹 💙 **TypeScript (TSX)**
-🔹 🖼️ Vite 
-🔹 🎨 Styled Components / CSS Module 
+-🔹 ⚛️ **ReactJS**
+-🔹 💙 **TypeScript (TSX)**
+-🔹 🖼️ Vite 
+-🔹 🎨 Styled Components / CSS Module 
 
 ---
 
