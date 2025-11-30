@@ -1,8 +1,7 @@
 # 🚀 Projeto — Feed React 
 
-Este é um projeto desenvolvido durante um desafio/estudo da <img width="243" height="24" alt="image" src="https://github.com/user-attachments/assets/c89e0970-f333-4b2a-8795-3ff0eef35918" />
-utilizando **ReactJS**, **TypeScript** e boas práticas de frontend.
-
+Este é um projeto desenvolvido durante um desafio/estudo da   <img width="243" height="24" alt="image" src="https://github.com/user-attachments/assets/c89e0970-f333-4b2a-8795-3ff0eef35918" />  utilizando **ReactJS**, **TypeScript** e boas práticas de frontend.
+ 
 
 ## 📸 Demonstração
 <img width="1440" height="2037" alt="feedReact" src="https://github.com/user-attachments/assets/49b50cef-3ab9-43f7-8668-7b7de074a2b9" />
@@ -13,10 +12,10 @@ utilizando **ReactJS**, **TypeScript** e boas práticas de frontend.
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
--🔹 ⚛️ **ReactJS**
--🔹 💙 **TypeScript (TSX)**
--🔹 🖼️ Vite 
--🔹 🎨 Styled Components / CSS Module 
+ ⚛️ **ReactJS**
+ 💙 **TypeScript (TSX)**
+ 🖼️ **Vite**
+ 🎨 **Styled Components / CSS Module** 
 
 ---
 
@@ -25,7 +24,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 🔹 Interface moderna e responsiva  
 🔹 Navegação simples e intuitiva  
 🔹 Componentização com TSX  
-🔹 Boas práticas do React 
+🔹 Boas práticas do React <br>
 🔹 Estado gerenciado (useState, useEffect...)  
 
 ---
