@@ -13,20 +13,20 @@ utilizando **ReactJS**, **TypeScript** e boas práticas de frontend.
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- ⚛️ **ReactJS**
-- 💙 **TypeScript (TSX)**
-- 🖼️ Vite 
-- 🎨 Styled Components / CSS Module 
+🔹 ⚛️ **ReactJS**
+🔹 💙 **TypeScript (TSX)**
+🔹 🖼️ Vite 
+🔹 🎨 Styled Components / CSS Module 
 
 ---
 
 ## 📚 Sobre o projeto
 
-- 🔹 Interface moderna e responsiva  
-- 🔹 Navegação simples e intuitiva  
-- 🔹 Componentização com TSX  
-- 🔹 Boas práticas do React 
-- 🔹 Estado gerenciado (useState, useEffect...)  
+🔹 Interface moderna e responsiva  
+🔹 Navegação simples e intuitiva  
+🔹 Componentização com TSX  
+🔹 Boas práticas do React 
+🔹 Estado gerenciado (useState, useEffect...)  
 
 ---
 
