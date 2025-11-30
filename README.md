@@ -1,7 +1,7 @@
 # 🚀 Projeto — Feed React 
 
 Este é um projeto desenvolvido durante um desafio/estudo da **<img width="243" height="24" alt="image" src="https://github.com/user-attachments/assets/c89e0970-f333-4b2a-8795-3ff0eef35918" />
-Rocketseat**, utilizando **ReactJS**, **TypeScript** e boas práticas de frontend.
+utilizando **ReactJS**, **TypeScript** e boas práticas de frontend.
 
 
 ## 📸 Demonstração
