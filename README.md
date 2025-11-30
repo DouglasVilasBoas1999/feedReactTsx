@@ -25,10 +25,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - 🔹 Interface moderna e responsiva  
 - 🔹 Navegação simples e intuitiva  
 - 🔹 Componentização com TSX  
-- 🔹 Boas práticas da Rocketseat  
+- 🔹 Boas práticas do React 
 - 🔹 Estado gerenciado (useState, useEffect...)  
-
-> Aprendizagem do React 
 
 ---
 
