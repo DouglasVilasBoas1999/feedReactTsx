@@ -1,4 +1,3 @@
-import * as React from 'react'
 import { PencilLine } from 'phosphor-react'
 import styles from './Sidebar.module.css'
 import perfil from  '../assets/img/perfil.png'

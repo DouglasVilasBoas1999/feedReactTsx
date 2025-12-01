@@ -1,10 +1,8 @@
-import * as React from 'react'
 import perfil from  '../assets/img/perfil2.png'
 import styles from  './Comment.module.css'
 import { ThumbsUp, Trash } from 'phosphor-react'
 import { Avatar } from './Avatar'
 import { useState } from 'react'
-
 
 export function Comment(props){
     const [likeCount, setLikeCount] = useState(0);
