@@ -1,4 +1,3 @@
-import * as React from 'react'
 import './global.css'
 import styles from './App.module.css'
 import { Header } from './componentes/Header'
