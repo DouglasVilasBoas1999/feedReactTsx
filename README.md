@@ -33,10 +33,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/DouglasVilasBoas1999/nome-do-projeto.git
+git clone https://github.com/DouglasVilasBoas1999/feedReactTsx.git
 
 # Entre na pasta
-cd nome-do-projeto
+cd feedReactTsx
 
 # Instale as dependências
 npm install
