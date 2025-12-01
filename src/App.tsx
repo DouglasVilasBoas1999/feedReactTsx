@@ -2,13 +2,11 @@ import './global.css'
 import styles from './App.module.css'
 import { Header } from './componentes/Header'
 import { Sidebar } from './componentes/Sidebar'
-import { Post } from  './componentes/Post'
+import { Post, type PostProps } from  './componentes/Post'
 import perfil2 from  '../src/assets/img/perfil2.png'
-import perfil3 from '../src/assets/img/perfil3.png'
 import perfil1 from  '../src/assets/img/perfil.png'
 
-
-const posts = [
+const posts: PostProps[] = [
   {
     id:1,
     author: {
@@ -25,7 +23,6 @@ const posts = [
     publishedAt: new Date('2025-10-20 15:00:00')
 
   },
-
   {
     id:2,
     author: {
@@ -43,7 +40,6 @@ const posts = [
 
   },
 ]
-
 export function App() {
   return (
      <div>
@@ -52,7 +48,6 @@ export function App() {
          <div className= {styles.wrapper}>
             <Sidebar />
             <main>
-
               {posts.map(post => {
                 return(
                   <Post
@@ -63,9 +58,7 @@ export function App() {
                   />
                 ) 
               })}
-      
             </main>
-
           </div>
     </div>
     

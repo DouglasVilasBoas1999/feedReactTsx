@@ -5,7 +5,12 @@ import { Comment } from './Comment'
 import { Avatar } from './Avatar'
 import { useState, type FormEvent, type ChangeEvent, type InvalidEvent } from 'react'
 
-
+export type PostPropsType = {
+    id: number;
+    author: Author;
+    publishedAt: Date;
+    content: Content[];
+}
 interface Author {
     name:string,
     role: string,
@@ -14,10 +19,9 @@ interface Author {
 interface Content{
     type: 'paragraph' | 'link';
     content: string;
-
 }
-
-interface PostProps {
+export interface PostProps {
+    id?: number;
     author: Author;
     publishedAt: Date;
     content: Content[];

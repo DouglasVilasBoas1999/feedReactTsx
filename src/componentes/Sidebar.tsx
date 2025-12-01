@@ -3,7 +3,6 @@ import styles from './Sidebar.module.css'
 import perfil from  '../assets/img/perfil.png'
 import { Avatar } from './Avatar'
 
-
 export function Sidebar() {
     return(
         <aside className={ styles.sidebar }> 
